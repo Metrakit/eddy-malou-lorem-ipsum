@@ -5,7 +5,7 @@ You are bored to use the traditional "Lorem Ipsum" for your dummy texts ? Okey, 
 It's an extension for Sublime Text 3, It allow us to use some dummy text (like Lorem Ipsum) but with the Eddy Malou syntax.
 This idea come from the [Eddy Malou generator](http://eddy-malou.com/) webite : http://eddy-malou.com. Thanks to the creators !
 
-gif
+![Demo](http://labs.jordane.net/img/demo-eddy-malou-lorem-ipsum.gif)
 
 
 ## You have 3 ways to use this plugin :
