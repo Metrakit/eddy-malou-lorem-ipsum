@@ -1,0 +1,13 @@
+[
+    {
+        "caption":"EddyMalou LoremIpsum",
+        "children":
+        [
+            {"command": "malou", "caption": "default size", "args":{"nb":1}},
+            {"command": "malou-xs", "caption": "xs size", "args":{"nb":1}},
+            {"command": "malou-sm", "caption": "sm size", "args":{"nb":2}},
+            {"command": "malou-md", "caption": "md size", "args":{"nb":3}},
+            {"command": "malou-lg", "caption": "lg size", "args":{"nb":4}}
+        ] 
+    }
+]

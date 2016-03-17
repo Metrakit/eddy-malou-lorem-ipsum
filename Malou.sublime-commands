@@ -1,0 +1,32 @@
+[
+
+  {
+    "caption": "EddyMalou: default size",
+    "command": "malou",
+    "args": {"nb": 1 }
+  },
+
+  {
+    "caption": "EddyMalou: XS size",
+    "command": "malou-xs",
+    "args": {"nb": 1 }
+  },
+
+  {
+    "caption": "EddyMalou: SM size",
+    "command": "malou-sm",
+    "args": {"nb": 2 }
+  },
+
+  {
+    "caption": "EddyMalou: MD size",
+    "command": "malou-md",
+    "args": {"nb": 3 }
+  },
+
+  {
+    "caption": "EddyMalou: LG size",
+    "command": "malou-lg",
+    "args": {"nb": 4 }
+  }
+]

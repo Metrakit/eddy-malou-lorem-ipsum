@@ -1,0 +1,8 @@
+[
+	{ "keys": ["alt+shift+m"], "command": "malou" },
+	{ "keys": ["tab"], "command": "malou", "context": 
+	 	[
+	 		 { "key": "preceding_text", "operator": "regex_contains", "operand": ".*\\b(malou|malou-xs|malou-sm|malou-md|malou-lg)$", "match_all": true }
+	 	]
+	 }
+]
