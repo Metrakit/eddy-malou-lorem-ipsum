@@ -44,18 +44,18 @@ class MalouCommand(sublime_plugin.TextCommand):
         selects = self.view.sel()
         for select in selects:
 
-            sizes = ['malou-xs', 'malou-sm', 'malou-md', 'malou-lg']
-
             default = sublime.Region(select.begin() - 5, select.begin())
             size = sublime.Region(select.begin() - 8, select.begin())
 
             current_text = self.view.substr(size).lower()
+            if current_text not in self.sizes_list:
+                current_text = self.view.substr(default).lower()
 
             if current_text == 'malou':
                 txt = str(self.makeParagraph('malou-xs'))
                 self.view.erase(edit, default)
                 select = sublime.Region(default.begin())
-            elif current_text in sizes:
+            elif current_text in self.sizes_list:
                 txt = str(self.makeParagraph(current_text))
                 self.view.erase(edit, size)
                 select = sublime.Region(size.begin())
