@@ -2,8 +2,8 @@
 
 You are bored to use the traditional "Lorem Ipsum" for your dummy texts ? Okey, EddyMalou Lorem Ipsum is there for help you.
 
-It's an extension for Sublime Text 3, It allow us to use some dummy text (like Lorem Ipsum) but with the Eddy Malou syntax.
-This idea come from the [Eddy Malou generator](http://eddy-malou.com/) webite : http://eddy-malou.com. Thanks to the creators !
+It's an extension for Sublime Text, It allow us to use some dummy text (like Lorem Ipsum) but with the Eddy Malou syntax.
+This idea come from the [Eddy Malou generator](http://eddy-malou.com/) webSite : http://eddy-malou.com. Thanks to the creators !
 
 ![Demo](http://labs.jordane.net/img/demo-eddy-malou-lorem-ipsum.gif)
 
