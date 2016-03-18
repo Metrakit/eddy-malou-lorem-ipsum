@@ -13,7 +13,7 @@ class MalouCommand(sublime_plugin.TextCommand):
         "malou-md": 3,
         "malou-lg": 4,
     }
-    sizes_list = ["malou-xs", "malou-sm", "malou-md", "malou-lg"]
+    sizes_list = []
 
     def makeParagraph(self, size):
 
@@ -33,6 +33,9 @@ class MalouCommand(sublime_plugin.TextCommand):
         return paragraph[:-1]
 
     def run(self, edit, nb=1):
+
+        for i in self.sizes_json:
+            self.sizes_list.append(i)
 
         nb=nb-1
 
