@@ -3,11 +3,11 @@
         "caption":"EddyMalou LoremIpsum",
         "children":
         [
-            {"command": "malou", "caption": "default size", "args":{"nb":1}},
-            {"command": "malou-xs", "caption": "xs size", "args":{"nb":1}},
-            {"command": "malou-sm", "caption": "sm size", "args":{"nb":2}},
-            {"command": "malou-md", "caption": "md size", "args":{"nb":3}},
-            {"command": "malou-lg", "caption": "lg size", "args":{"nb":4}}
+            {"command": "malou", "caption": "Default size", "args":{"nb":1}},
+            {"command": "malou", "caption": "XS size", "args":{"nb":1}},
+            {"command": "malou", "caption": "SM size", "args":{"nb":2}},
+            {"command": "malou", "caption": "MD size", "args":{"nb":3}},
+            {"command": "malou", "caption": "LG size", "args":{"nb":4}}
         ] 
     }
 ]

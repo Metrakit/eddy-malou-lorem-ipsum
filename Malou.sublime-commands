@@ -8,25 +8,25 @@
 
   {
     "caption": "EddyMalou: XS size",
-    "command": "malou-xs",
+    "command": "malou",
     "args": {"nb": 1 }
   },
 
   {
     "caption": "EddyMalou: SM size",
-    "command": "malou-sm",
+    "command": "malou",
     "args": {"nb": 2 }
   },
 
   {
     "caption": "EddyMalou: MD size",
-    "command": "malou-md",
+    "command": "malou",
     "args": {"nb": 3 }
   },
 
   {
     "caption": "EddyMalou: LG size",
-    "command": "malou-lg",
+    "command": "malou",
     "args": {"nb": 4 }
   }
 ]
