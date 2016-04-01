@@ -40,8 +40,8 @@ class MalouCommand(sublime_plugin.TextCommand):
         nb=nb-1
 
         package_path = "Packages/EddyMalouLoremIpsum"
-        file = package_path + "/dictionary.json"
-        content = sublime.load_resource(file)  
+        jsonfile = package_path + "/dictionary.json"
+        content = sublime.load_resource(jsonfile)  
         self.dictionary = json.loads(content)
 
         selects = self.view.sel()
