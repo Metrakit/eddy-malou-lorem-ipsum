@@ -1,4 +1,4 @@
-# EddyMalou Lorem Ipsum for [Sublime Text](http://www.sublimetext.com)
+# EddyMalou Lorem Ipsum for [Sublime Text 3](http://www.sublimetext.com)
 
 You are bored to use the traditional "Lorem Ipsum" for your dummy texts ? Okey, EddyMalou Lorem Ipsum is there for help you.
 
