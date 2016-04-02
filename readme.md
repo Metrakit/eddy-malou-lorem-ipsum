@@ -17,14 +17,13 @@ This idea come from the [Eddy Malou generator](http://eddy-malou.com/) webSite :
 
 ## Install
 
+### Package Control
+
+- Via the [Package Control](https://packagecontrol.io/): search for `EddyMalou LoremIpsum`.
+
 ### Manually
 
 git clone this repository to your package folder.
-
-### Package Control
-
-Coming soon !
-
 
 ### Credit
 
