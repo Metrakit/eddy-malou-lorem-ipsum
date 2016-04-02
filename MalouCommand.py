@@ -39,7 +39,7 @@ class MalouCommand(sublime_plugin.TextCommand):
 
         nb=nb-1
 
-        package_path = "Packages/EddyMalouLoremIpsum"
+        package_path = "Packages/EddyMalou LoremIpsum"
         jsonfile = package_path + "/dictionary.json"
         content = sublime.load_resource(jsonfile)  
         self.dictionary = json.loads(content)
