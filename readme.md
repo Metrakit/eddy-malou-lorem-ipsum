@@ -13,7 +13,7 @@ This idea come from the [Eddy Malou generator](http://eddy-malou.com/) webSite :
 1. Auto-completion : type `malou` or `malou-xs` or `malou-sm` or `malou-md` or `malou-lg` then press the `TAB` key.
 2. Just press the shorcut `Alt+Shift+M` and it's work
 3. You can use the menu : `Edit->Text->EddyMalou LoremIpsum`
-4. Or finally, you can the right click then use the contextual menu and choose `EddyMalou LoremIpsum`
+4. Or finally, you can use the right click for have the contextual menu and choose `EddyMalou LoremIpsum`
 
 ## Install
 
